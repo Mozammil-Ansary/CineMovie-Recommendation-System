@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.env
+.DS_Store
+.pytest_cache/
+.streamlit/secrets.toml
+artifacts/*.pkl
+artifacts/*.joblib
